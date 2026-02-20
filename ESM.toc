@@ -1,0 +1,8 @@
+## Interface: 20505
+## Title: ESM
+## Notes: Save and equip gear sets with /eqs save N and /eqs equip N
+## Author: Codex
+## Version: 1.1.0
+## SavedVariables: ESMDB
+
+ESM.lua
